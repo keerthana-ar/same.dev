@@ -1,0 +1,8 @@
+{
+  "name": "same.dev",
+  "description": "A high-performance tool that recreates public website UIs as clean, editable React and Tailwind CSS code using Gemini AI and simulated browser scraping.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
